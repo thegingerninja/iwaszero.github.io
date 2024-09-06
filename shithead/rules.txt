@@ -1,0 +1,87 @@
+Backpacker Shithead
+....There are no winners in Shithead... only a looser.
+
+In the beginning
+As people got braver and started to travel from one great nation to the next, there begun a mission to find a common language. A language that travellers could learn in minutes rather than years. A language to forge friendships that would last years no matter how the world evolved.
+
+For years the greatest and wisest travellers pondered this problem. Many years passed until one dark evening a small group of backpackers stumbled upon the answer. It wasn't a language that was needed but a game. One great game to bind the friendships. A game which was easy to learn yet allowed players to feel like masters. A game with no winners. Their vision was to be formalised as... Shithead.
+
+Backpacker Rules
+As with most important stories told by wandering travellers, the rules of Shithead vary from camp to camp. This document explains the rules as played by the 1998 Perth (Western Oz) backpacker tribe. We spent many a night passing on the word of Shithead and have continued playing by the same rules since.
+
+The rules we played by served us well. They are now forged for eternity here in computer text. May they bring peace and harmony to all travellers....
+
+What or Who is the Shithead?
+Shithead is a card game for two to five players (more if an extra pack is added). The main aim of Shithead is to get rid of all your cards. The last player left with cards is called the "Shithead". Standard backpacker rules require the Shithead to stand up and say:
+
+"I am the Shithead!"
+It should be said in a loud and proud voice.
+
+Dealing in Shit...head
+The player who was the last Shithead deals. If it's the first game then anyone can deal. Cards are dealt in a clockwise direction.
+Deal three face-down cards to each player
+Cards are placed face-down in front of each player until each player has got three cards. Each card is placed so that each player ends up with a row of three face-down cards.
+Deal three face-up cards
+The dealer then deals cards face-up, on top of the face-down cards just dealt.
+Deal three hand cards
+Finally the dealer deals cards to each player until each player has three cards. The players can then pick up these three cards.
+Place the remaining cards face-down on table
+The cards left are placed face down as the Replenish-pile
+At the end of dealing, each player will have three cards in their hand and three piles in front of them. Each pile is made of two cards. The bottom card is face-down, while the top card is face-up and viewable to all players.
+
+Face-up card exchange
+At this point (after the deal but before play begins), players can swap cards in their hand with any of their face-up cards. They can do this any number of times until play begins. The aim behind this becomes clearer after experiencing a few games.
+
+Who Starts?
+The traditional backpackers way to decide who plays first is decided by who is quickest to play a black three. If no one has a black three then it goes to the first to play a red three. If play has still not started it is the first to play a black four and so on up.
+
+Note: The lowest card is the black three as the two has special powers.
+
+The computer version will select the player who has the lowest card dealt in their hand. If there is a draw e.g. two players with a black three, then the first player in sequence after the dealer is to start.
+
+Play
+As cards are played, they form a pick-up pile. If there is no pick-up pile then any card can be played. It is called the pick-up pile because if a user can not play a card then they have to pick-up the whole pile. After picking up the pile the player does not get to play a card
+
+The top card showing on the pick-up pile determines which card a player can play. Normally a card of equal or greater rank must be played. The exception to this is when the top card is a Seven. If this happens the player must play a Seven or lower ranked card. See Cards with Power for other special card details.
+
+If the player has more than one card of the same rank then they can play them all at once as if just one card. The player does not have to play them all and can play any number of them at once.
+
+A player does not need to play a card if they would prefer to pick up the pick-up pile.
+
+While the Replenish-pile has still got cards, each player should always have a minimum of three cards in their hand. If after playing a card the player has only two cards in hand then they must pick up a card from the replenish-pile. The player only needs to pick up cards to make their hand up to three. Only after the Replenish-pile runs dry should any player have less than three cards in hand.
+
+Playing Face-up Cards
+The game starts to pick up pace once there are no more cards on the replenish-pile. To play face-up cards, a player must have no cards in their hand. If the player can play their last hand card and they have a face-up card of the same rank then they can play both cards as one move.
+
+If a player cannot play any of their face up cards then they must pick-up the pick-up pile. The player will then not be able to play their face-up cards until they have emptied their hand again.
+
+Alternative rule not used in Backpacker Shithead:
+If a player cannot play any of their face up cards then they must place one of their face-up cards and place it on the pick-up pile. They must then pick-up the pick-up pile. The player will then not be able to play their face-up cards until they have emptied their hand again.
+Playing Face-down Cards
+Once a player has played all their face-up cards and they have no cards in their hand then the face-down cards must be played. The player has to choose one of their cards and flip it onto the pick-up pile. If it is a valid card to play then play continues to the next player. If it isn't valid then the play must pickup the pickup-pile. The player will then not be able to play their face-down cards until they have emptied their hand again. If the card was playable and it was the players last card then they have successfully avoided being the Shithead. The other players continue until only the Shithead is left.
+
+Cards with Power
+Two
+The Two can be played on any card. Play continues as normal with the next player needing to play Two or higher.
+
+Seven
+The Seven can only be placed on a seven or lower. The next player must then play seven or lower.
+
+Ten
+The Ten is one of the most powerful cards to have. It can be played on any card and clears the pickup-pile. The same player plays their next card immediately to start a new pickup-pile. Cleared cards stay out of the game.
+
+Four of a Kind
+If four of the same card rank are placed on the pickup-pile one after the other, then the pickup-pile is cleared. The player who completed the sequence plays their next card starting a new pickup-pile.
+
+Glossary
+Shithead
+The player who lost the game.
+
+Pickup-pile
+The pile of cards which cards are played onto. If a player can't play then they must pick up this whole pile of cards.
+
+Replenish-pile
+The cards that are left over after the deal. These cards are picked up by players to maintain a minimum of three cards in their hand.
+
+Cleared Cards
+If a "Ten" or "Four of a Kind" is played then the pickup-pile is removed from the game. These cleared cards are no longer used in the game.
